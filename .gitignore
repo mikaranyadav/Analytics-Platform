@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Generated data
+*.csv
+
+# Secrets file! DO NOT UPLOAD!
+.streamlit/secrets.toml
+
+# IDE / OS specific
+.vscode/
+.idea/
+.DS_Store
