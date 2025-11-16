@@ -8,8 +8,9 @@ The entire system is built using free, open-source tools.
 
 Here is a screenshot of the final interactive dashboard, which visualizes our key financial metrics.
 
-**[YOUR-SCREENSHOT-HERE]**
-*(You'll need to add your dashboard screenshot here!)*
+https://github.com/mikaranyadav/Analytics-Platform/blob/main/dashboard-preview.png
+https://github.com/mikaranyadav/Analytics-Platform/blob/main/dashboard-preview1.png
+https://github.com/mikaranyadav/Analytics-Platform/blob/main/dashboard-preview2.png
 
 ---
 
@@ -49,3 +50,4 @@ Think of this project as building a fully automated factory line for data:
 * **pgAdmin 4:** The desktop tool used to manage and visually inspect our PostgreSQL database.
 
 ---
+
